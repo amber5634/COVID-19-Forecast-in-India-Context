@@ -26,7 +26,7 @@ COVID-19 Forecast in India Context
 ![Weekly_Trend](https://user-images.githubusercontent.com/30586187/88536796-0c319000-d02a-11ea-923f-4318021bd163.png)
 
 ## Prediction Demo for 10th August
-![resize-1595850828916764063PSX20200727162058](https://user-images.githubusercontent.com/30586187/88539057-22414f80-d02e-11ea-87f4-a1c4a1c81387.jpg)
+![PSX_20200727_162058](https://user-images.githubusercontent.com/30586187/88539489-f7a3c680-d02e-11ea-82f9-aa96d6473c46.jpg)
 
 - Currently there are 1.45 M + confirmed cases on 27th July , 2020.
 - Prediction pf confirmed cases for 10th August, 2020 is 1.67 M + 6.
