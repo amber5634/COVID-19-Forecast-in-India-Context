@@ -1,6 +1,16 @@
 # COVID-19-Forecast-in-India-Context
 COVID-19 Forecast in India Context
 
+## Table of contents
+  * [Set-Up](#set-up)
+  * [Installation](#installation)
+  * [Libraries Required](#libraries-required)
+  * [Plot for Confirmed Cases in India](#plot-for-confirmed-cases-in-india)
+  * [Plot for Trend in Confirmed Cases](#plot-for-trend-in-confirmed-cases)
+  * [Plot for Prediction of Confirmed Cases](#plot-for-prediction-of-confirmed-cases)
+  * [Plot for weekly trend](#plot-for-weekly-trend)
+  * [Prediction Demo for 10th August](#prediction-demo-for-10th-august)
+
 ## Set-Up
 - R Studio
 
